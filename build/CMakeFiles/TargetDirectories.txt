@@ -1,0 +1,3 @@
+/mnt/c/Users/Asus/Desktop/Proiecte/Paoo/Tema1/build/CMakeFiles/Melodie.dir
+/mnt/c/Users/Asus/Desktop/Proiecte/Paoo/Tema1/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Asus/Desktop/Proiecte/Paoo/Tema1/build/CMakeFiles/rebuild_cache.dir

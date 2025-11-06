@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/mnt/c/Users/Asus/Desktop/Proiecte/Paoo/Tema1/build",
+  "command": "/usr/bin/g++  -I/mnt/c/Users/Asus/Desktop/Proiecte/Paoo/Tema1/include -g -std=gnu++17 -o CMakeFiles/Melodie.dir/src/Melodie.cpp.o -c /mnt/c/Users/Asus/Desktop/Proiecte/Paoo/Tema1/src/Melodie.cpp",
+  "file": "/mnt/c/Users/Asus/Desktop/Proiecte/Paoo/Tema1/src/Melodie.cpp",
+  "output": "CMakeFiles/Melodie.dir/src/Melodie.cpp.o"
+},
+{
+  "directory": "/mnt/c/Users/Asus/Desktop/Proiecte/Paoo/Tema1/build",
+  "command": "/usr/bin/g++  -I/mnt/c/Users/Asus/Desktop/Proiecte/Paoo/Tema1/include -g -std=gnu++17 -o CMakeFiles/Melodie.dir/src/main.cpp.o -c /mnt/c/Users/Asus/Desktop/Proiecte/Paoo/Tema1/src/main.cpp",
+  "file": "/mnt/c/Users/Asus/Desktop/Proiecte/Paoo/Tema1/src/main.cpp",
+  "output": "CMakeFiles/Melodie.dir/src/main.cpp.o"
+}
+]
